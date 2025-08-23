@@ -1,4 +1,4 @@
-name: Deploy to Cloudflare Pages via API
+name: Deploy to Cloudflare Pages via API(jlgprotonCF_pages)
 
 on:
   push:
